@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"Suertudo",
+        "specie":"cat"
+    },
+    {
+        "id":2,
+        "name":"Cringer",
+        "specie":"Tiger"
+    },
+    {
+        "id":3,
+        "name":"Azrael",
+        "specie":"cat"
+    }
+]
